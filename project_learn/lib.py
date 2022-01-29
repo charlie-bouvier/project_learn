@@ -1,2 +1,6 @@
 def try_me():
-    return print("Simsim is in the house")
+    import time
+    print("Today is a coding day!!!")
+    time.sleep(2)
+    return
+try_me()
